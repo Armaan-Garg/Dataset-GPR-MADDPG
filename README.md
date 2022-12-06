@@ -1,4 +1,4 @@
-# Dataset for paper Deep Reinforcement Learning based Multi-UAV Tracking and Coverage
+# Dataset for paper,"Deep Deterministic Policy Gradient based Multi-UAV Control for Moving Convoy Tracking"
 
 OSRM tool is used to collect latitude-longitude coordinates for varied road-tracks over which the convoy movement is tracked. 
 
